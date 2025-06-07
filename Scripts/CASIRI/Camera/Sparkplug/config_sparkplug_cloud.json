@@ -1,0 +1,10 @@
+{
+    "serverUrl": "291534cccdb04d16b1769bc4a14ee9f6.s1.eu.hivemq.cloud",
+    "myGroupId": "UIS",
+    "myNodeName" : "casiri-images",
+    "myDeviceName" : "uis-casiri-Jetson-mqtt",
+    "publishPeriod" : 5000,
+    "myUsername" : "rubio13",
+    "myPassword" : "Feliperubio0713",
+    "port" : 8883
+}
