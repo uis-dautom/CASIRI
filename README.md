@@ -10,5 +10,5 @@ Learning guides: Structured educational material covering basic IoT concepts to 
 Ignition backup: Complete project with functional dashboards for remote visualization of atmospheric variables.
 Technical documentation: Description of system architecture, components, tests, and scalability considerations.
 
-**Project Objective**
+**Project Objective**  
 To design and implement an IIoT system that enables the remote collection, visualization, and storage of data from the CASIRI station using technologies like MQTT Sparkplug B, Ignition 8.1, HiveMQ Cloud, and MySQL, with a pedagogical focus to support hands-on learning in connected industrial systems.
