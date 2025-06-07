@@ -2,7 +2,7 @@
 
 This repository contains the complete development of the project “IIoT System for Monitoring the Radio Astronomy Station using the MQTT Sparkplug B Protocol”, which integrates a technological solution with an educational strategy aimed at training talent for Industry 4.0.
 
-Repository Contents:
+**Repository Contents:**
 
 Scripts: Python code for data simulation, MQTT publishing, and system validation.
 Validation videos: Step-by-step documented experimental tests.
