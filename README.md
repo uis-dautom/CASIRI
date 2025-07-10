@@ -8,7 +8,7 @@ _**Abstract:** Industry 4.0 has progressed rapidly due to advances in the Intern
 More info: https://www.juanmrey.com/iiot
 Video abstract: https://youtu.be/TS0ZIWs8EE8
 
-![Graphical abstract](/Figures/Graphical_Abstract2.png)
+![Graphical abstract](/Figures/Graphical_Abstract.png)
 
 
 
