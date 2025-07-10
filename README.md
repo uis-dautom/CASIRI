@@ -26,3 +26,5 @@ Technical documentation: Description of system architecture, components, tests, 
 
 **Project Objective**  
 To design and implement an IIoT system that enables the remote collection, visualization, and storage of data from the CASIRI station using technologies like MQTT Sparkplug B, Ignition 8.1, HiveMQ Cloud, and MySQL, with a pedagogical focus to support hands-on learning in connected industrial systems.
+
+![Graphical abstract](/Figures/Field_test.jpeg)
